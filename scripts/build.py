@@ -11,7 +11,7 @@ import psutil
 
 # script configuration: edit these options to fit your setup
 # these paths are relative to your project root. absolute paths also work
-GAME_ROOT = Path("E:\Steam\steamapps/common/Stacklands").resolve()
+GAME_ROOT = Path("E:/Steam/steamapps/common/Stacklands").resolve()
 SYNC_FOLDERS = ["Blueprints", "Boosterpacks", "Cards", "Images", "Sounds"]
 # you probably dont need to touch these
 STACKLANDS_EXE = GAME_ROOT / "Stacklands"
