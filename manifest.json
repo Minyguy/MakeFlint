@@ -1,9 +1,0 @@
-{
-    "name": "MakeFlint",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Minyguy/MakeFlint",
-    "description": "This mod lets you craft flint using stone, the same way you can craft sticks with wood!",
-    "dependencies": [
-        
-    ]
-}
