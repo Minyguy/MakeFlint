@@ -10,7 +10,7 @@
 	"needsExactMatch": true,
 	"subprints": [
 		{
-			"requiredCards": "any_villager, stone",
+			"requiredCards": "villager, stone",
 			"cardsToRemove": "stone",
 			"resultCard": "flint",
 			"extraResultCards": "",
