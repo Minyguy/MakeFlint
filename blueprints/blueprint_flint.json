@@ -1,0 +1,21 @@
+{
+	"id": "blueprint__MakeFlint",
+	"nameOverride": "Idea: Flint",
+	"nameTerm": "blueprint_make_flint",
+	"group": "Resources",
+	"icon": "icon.png",
+	"hideFromIdeasTab": false,
+	"hideFromCardopedia": false,
+	"isInvention": false,
+	"needsExactMatch": true,
+	"subprints": [
+		{
+			"requiredCards": "villager, stone",
+			"cardsToRemove": "stone",
+			"resultCard": "flint",
+			"extraResultCards": "",
+			"time": 10,
+			"status": "Breaking apart rocks to make flint!"
+		}
+	]
+}
